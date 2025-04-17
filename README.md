@@ -1,2 +1,2 @@
-# Ai-code-bug-detector
-Detect and Refract Code Errors using AI
+# Ai-code-smell-detector
+Detect AI generated vs Human Code
