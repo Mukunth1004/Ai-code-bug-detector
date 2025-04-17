@@ -1,5 +1,9 @@
 fastapi
-uvicorn
+uvicorn[standard]
 transformers
-torch
 pydantic
+sqlalchemy
+aiosqlite
+jinja2
+python-multipart
+passlib[bcrypt]
